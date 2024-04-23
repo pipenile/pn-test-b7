@@ -1,9 +1,10 @@
-## Pipenile Coding Test
-### Description
+# Pipenile Coding Test
+## Description
 Implement a dynamic filter function for a mock order management system using JavaScript. The function should allow filtering of order data based on multiple criteria such as status, quantity, amount, and creation date ranges. The solution should be easily extensible, allowing additional filters to be added or modified with minimal changes to existing code.
 
 ---
-### Requirements
+## Requirements
+
 
 **1. Data Structure:** Use the following mock data for the orders:
 ```javascript
@@ -31,7 +32,7 @@ const orders = [
 - The function should return an array of orders that match all provided filters.
 
 ---
-### Instructions for Candidates:
+## Instructions for Candidates:
 
 **1. Create a New Public Repository:** Go to your GitHub account and create a new public repository. Name the repository: `pipenile-order-filter`.
 
